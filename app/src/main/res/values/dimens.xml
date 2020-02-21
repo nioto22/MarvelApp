@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="thin_2dp">2dp</dimen>
+    <dimen name="small_4dp">4dp</dimen>
+    <dimen name="normal_8dp">8dp</dimen>
+    <dimen name="large_12dp">12dp</dimen>
+    <dimen name="xl_20dp">20dp</dimen>
+    <dimen name="item_character_width">128dp</dimen>
+    <dimen name="item_character_height">170dp</dimen>
+    <dimen name="text_size_xl">22sp</dimen>
+</resources>
