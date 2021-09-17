@@ -7,9 +7,18 @@ import com.aprouxdev.marvelapp.pojo.MarvelCharacter
 
 class MainViewModel : ViewModel() {
 
+    companion object {
+        const val RANDOM_FIRST_COUNT = 22
+    }
     private val repository: MarvelRepository = MarvelRepository()
 
     fun getCharacters(): LiveData<List<MarvelCharacter>> {
         return repository.getCharacters()
     }
+
+
+    fun getRandomCharacters() {
+
+    }
+
 }

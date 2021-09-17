@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../adl.androidapp/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../adl.androidapp/app/src/main/java/ch/atipik/adapter/AccesPagerAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../adl.androidapp/app/src/main/java/ch/atipik/adapter/NewsListAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../adl.androidapp/app/src/main/java/ch/atipik/data/ADLDataManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../adl.androidapp/app/src/main/java/ch/atipik/data/MyRealmMigration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../adl.androidapp/app/src/main/java/ch/atipik/data/flexobject/FlexAccountItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../adl.androidapp/app/src/main/java/ch/atipik/data/flexobject/FlexAccountItemConnected.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../adl.androidapp/app/src/main/java/ch/atipik/data/flexobject/FlexAccountItemDisconnected.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../adl.androidapp/app/src/main/java/ch/atipik/data/flexobject/FlexAlertesItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../adl.androidapp/app/src/main/java/ch/atipik/data/flexobject/FlexFollowedFlight.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../adl.androidapp/app/src/main/java/ch/atipik/data/flexobject/FlexHeaderDashboard.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../adl.androidapp/app/src/main/java/ch/atipik/data/flexobject/FlexOrderItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../adl.androidapp/app/src/main/java/ch/atipik/data/flexobject/FlexUnfollowedFlight.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../adl.androidapp/app/src/main/java/ch/atipik/fcm/ADLFirebaseMessagingService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../adl.androidapp/app/src/main/java/ch/atipik/ui/AkTabLayout.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../adl.androidapp/app/src/main/java/ch/atipik/ui/EditTextCustom.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../adl.androidapp/app/src/main/java/ch/atipik/utils/BiometryMrzHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../adl.androidapp/app/src/main/java/ch/atipik/utils/Config.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../adl.androidapp/app/src/main/java/ch/atipik/utils/DateUtilities.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../adl.androidapp/app/src/main/java/ch/atipik/utils/LamesHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../adl.androidapp/app/src/main/java/ch/atipik/viewmodel/DashboardViewModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../adl.androidapp/app/src/main/java/com/adl/flyon/ADLActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../adl.androidapp/app/src/main/java/com/adl/flyon/AboutActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../adl.androidapp/app/src/main/java/com/adl/flyon/AccountConnectActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../adl.androidapp/app/src/main/java/com/adl/flyon/BarcodeCaptureActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../adl.androidapp/app/src/main/java/com/adl/flyon/BookFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../adl.androidapp/app/src/main/java/com/adl/flyon/BottomSheetOrderList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../adl.androidapp/app/src/main/java/com/adl/flyon/DashboardFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../adl.androidapp/app/src/main/java/com/adl/flyon/FlightDetailActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../adl.androidapp/app/src/main/java/com/adl/flyon/FlightFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../adl.androidapp/app/src/main/java/com/adl/flyon/SearchActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../adl.androidapp/app/src/main/java/com/adl/flyon/mona/followflight/MonaFollowFlightActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../adl.androidapp/app/src/main/java/com/adl/flyon/mona/followflight/preparationmodals/BaseModal.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../adl.androidapp/app/src/main/java/com/adl/flyon/mona/followflight/preparationmodals/ChecklistModal.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../adl.androidapp/app/src/main/res/layout/activity_mona_scan_setup.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/aprouxdev/marvelapp/network/Constants.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/aprouxdev/marvelapp/network/repository/MarvelRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/aprouxdev/marvelapp/network/services/MarvelApi.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/aprouxdev/marvelapp/ui/main/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/aprouxdev/marvelapp/ui/main/MainViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_detail.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
