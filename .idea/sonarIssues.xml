@@ -183,7 +183,52 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/aprouxdev/marvelapp/pojo/Comics.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/aprouxdev/marvelapp/pojo/Data.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/aprouxdev/marvelapp/pojo/MarvelCharacter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/aprouxdev/marvelapp/database/AppDatabase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/aprouxdev/marvelapp/database/Executors.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/aprouxdev/marvelapp/database/converters/Converters.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/aprouxdev/marvelapp/database/converters/ThumbnailConverters.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/aprouxdev/marvelapp/database/dao/CharacterDao.kt">
           <value>
             <set />
           </value>
@@ -199,6 +244,36 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/aprouxdev/marvelapp/network/services/MarvelApi.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/aprouxdev/marvelapp/pojo/ComicItem.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/aprouxdev/marvelapp/pojo/Comics.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/aprouxdev/marvelapp/pojo/Data.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/aprouxdev/marvelapp/pojo/MarvelCharacter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/aprouxdev/marvelapp/pojo/Result.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/aprouxdev/marvelapp/pojo/Thumbnail.kt">
           <value>
             <set />
           </value>
@@ -219,6 +294,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
           <value>
             <set />
           </value>

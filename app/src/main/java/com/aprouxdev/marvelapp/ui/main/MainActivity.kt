@@ -7,6 +7,7 @@ import androidx.lifecycle.ViewModelProviders
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.aprouxdev.marvelapp.R
+import com.aprouxdev.marvelapp.database.AppDatabase
 import com.aprouxdev.marvelapp.pojo.MarvelCharacter
 
 class MainActivity : AppCompatActivity() {
@@ -30,6 +31,10 @@ class MainActivity : AppCompatActivity() {
 
     private fun subscribeObservers() {
         viewModel.getCharacters().observe(this, Observer {
+
+            // FOR TEST ONLY
+            AppDatabase.getInstance(this).characterDao().updateData(it)
+
             for (character in it){
                 characterList.add(character)
             }
